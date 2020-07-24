@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![parrot](https://cultofthepartyparrot.com/parrots/revertitparrot.gif) Ahoy! I'm Debbie.
+
 
 <!--
 **xdebbie/xdebbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
